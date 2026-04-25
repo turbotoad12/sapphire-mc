@@ -4,3 +4,11 @@ __pycache__
 world
 world_nether
 world_the_end
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+eagler_skins_cache.db
+usercache.json
+version_history.json
+whitelist.json
